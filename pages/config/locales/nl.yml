@@ -5,6 +5,9 @@ nl:
         title: Pagina's
         description: Inhoud van pagina's beheren
     admin:
+      images:
+        edit: nl edit
+        delete: nl del
       pages_dialogs:
         page_link:
           link_to_this_page: Link naar deze pagina
